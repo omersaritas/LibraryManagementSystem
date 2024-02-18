@@ -1,0 +1,3 @@
+Foundation,Isaac Asimov,1951,244
+How to Win Friends & Influence People,Dale Carnegie,1936,285
+Hobbit,J.R.R. Tolkien,1937,366
